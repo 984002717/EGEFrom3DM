@@ -1,0 +1,10 @@
+LayerID	Lithology	Unit_Level	contact	Eroded
+Body_1	Lith1	system	conformable	no
+Body_2	Lith2	system	disconformable	no
+Body_3	Lith3	system	conformable	yes
+Body_4	Lith4	system	conformable	yes
+Body_5	Lith5	system	disconformable	yes
+Body_6	Lith6	system	conformable	yes
+Body_7	Lith7	system	conformable	yes
+Body_8	Lith8	system	conformable	yes
+Body_9	Lith9	system	conformable	yes
